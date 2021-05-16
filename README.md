@@ -1,4 +1,4 @@
-### Hello World This is Wajahat! :stuck_out_tongue_winking_eye:
+### Hey Geeks This is Wajahat! :stuck_out_tongue_winking_eye:
 
 <!--
 **wajahat-dev/wajahat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
